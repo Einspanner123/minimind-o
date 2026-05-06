@@ -461,29 +461,29 @@ https://github.com/user-attachments/assets/3f1cc9bb-16d2-4ce0-a473-40676cf4523e
 <tr><th width="100">Speaker</th><th width="380">Reference</th><th width="380">Output</th><th width="80">Avg</th></tr>
 <tr><td>arthur</td><td>
 
-https://github.com/user-attachments/assets/46e720ba-c413-4731-8275-a9a2cb483690
-
-</td><td>
-
-https://github.com/user-attachments/assets/f489b463-c7d7-4ad6-9e4d-53333172c66c
-
-</td><td>0.6479</td></tr>
-<tr><td>chelsie</td><td>
-
 https://github.com/user-attachments/assets/3430ecdb-6de8-4fb0-a6a7-ad82bdce01a1
 
 </td><td>
 
 https://github.com/user-attachments/assets/e598dbc2-ba28-4c38-b52d-6fa6c2349a5b
 
-</td><td>0.5975</td></tr>
-<tr><td>cherry</td><td>
+</td><td>0.6479</td></tr>
+<tr><td>chelsie</td><td>
 
 https://github.com/user-attachments/assets/f9166af6-3a98-42f3-9cf8-ad105eea87d6
 
 </td><td>
 
 https://github.com/user-attachments/assets/eccca693-4708-409a-88f7-85eb25f66fe6
+
+</td><td>0.5975</td></tr>
+<tr><td>cherry</td><td>
+
+https://github.com/user-attachments/assets/e69b9cac-e12f-43ae-a9dc-7e1618ef3a43
+
+</td><td>
+
+https://github.com/user-attachments/assets/bb41cdef-cc92-48fa-a508-76a75d391565
 
 </td><td>0.5418</td></tr>
 <tr><td>ethan</td><td>
